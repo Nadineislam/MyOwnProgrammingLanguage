@@ -3,3 +3,5 @@ This is my programming language designed by me, it's a simple language that supp
 
 # Grammar
 This language consists of the following terminals and non-terminals:
+
+# Terminals
