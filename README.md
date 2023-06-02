@@ -29,4 +29,9 @@ digit: A number that contains positive or integer set of real numbers or floatin
 < for_stmt >: A non-terminal that represents a for loop assignment.
 	
 < update_stmt >: A non-terminal that represents a for loop increment or decrement.
+
+# Example
+![Screenshot 2023-06-02 152614](https://github.com/Nadineislam/MyOwnProgrammingLanguage/assets/96357226/24469bb8-6a49-4013-8645-b9296d80456b)
+
+
 	
