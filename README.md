@@ -16,15 +16,13 @@ digit: A number that contains positive or integer set of real numbers or floatin
 
 .<content>: A non-terminal that represents the declaration or assignment statement or if condition or switch case or for loops. 
 	
+	
 .<declare>: A non-terminal that represents a variable declaration.
 	
+	
 .<assign>: A non-terminal that represents an assignment statement.
-	
-.<if_stmt>: A non-terminal that represents if condition.	
-	
+.<ifstmt>: A non-terminal that represents if condition.	
 .<operation>: A non-terminal that represents operators.
-	
-.<for_stmt>: A non-terminal that represents a for loop assignment.
-	
-.<update_stmt>: A non-terminal that represents a for loop increment or decrement.
+.<forstmt>: A non-terminal that represents a for loop assignment.
+.<updatestmt>: A non-terminal that represents a for loop increment or decrement.
 	
