@@ -19,10 +19,14 @@ digit: A number that contains positive or integer set of real numbers or floatin
 	
 .<declare>: A non-terminal that represents a variable declaration.
 	
-	
 .<assign>: A non-terminal that represents an assignment statement.
+	
+	
 .<ifstmt>: A non-terminal that represents if condition.	
+	
 .<operation>: A non-terminal that represents operators.
+	
 .<forstmt>: A non-terminal that represents a for loop assignment.
+	
 .<updatestmt>: A non-terminal that represents a for loop increment or decrement.
 	
