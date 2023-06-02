@@ -14,7 +14,7 @@ digit: A number that contains positive or integer set of real numbers or floatin
 
 .<stmt_list>: A non-terminal that represents a list of statements.
 
-.<content>: A non-terminal that represents the declaration or assignment statement or if condition or switch case or for loops. 
+content: A non-terminal that represents the declaration or assignment statement or if condition or switch case or for loops. 
 	
 	
 .<declare>: A non-terminal that represents a variable declaration.
