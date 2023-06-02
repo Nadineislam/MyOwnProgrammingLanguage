@@ -31,7 +31,17 @@ digit: A number that contains positive or integer set of real numbers or floatin
 < update_stmt >: A non-terminal that represents a for loop increment or decrement.
 
 # Example
+
+Here's an example that represents the declaration and for loops 
+
 ![Screenshot 2023-06-02 152614](https://github.com/Nadineislam/MyOwnProgrammingLanguage/assets/96357226/24469bb8-6a49-4013-8645-b9296d80456b)
+
+And here's an example with error 
+
+![Screenshot 2023-06-02 152725](https://github.com/Nadineislam/MyOwnProgrammingLanguage/assets/96357226/4d6e51bf-9c54-4284-978b-077e54061877)
+
+
+
 
 
 	
